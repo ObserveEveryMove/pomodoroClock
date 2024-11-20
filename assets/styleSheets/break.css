@@ -1,0 +1,29 @@
+.breakOuter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.breakBtns {
+    display: flex;
+    margin: 2%;
+    
+}
+
+.breakDown {
+    margin: 7px;
+    font-size: 250%;
+    background: none;
+    border: none;
+}
+
+
+.breakUp {
+    margin: 7px;
+    font-size: 250%;
+    background: none;
+    border: none;
+}
+

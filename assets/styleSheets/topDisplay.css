@@ -1,0 +1,18 @@
+.topDisplay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+    
+}
+
+.topFont {
+    font-size: 60px;
+
+}
+
+.topFontNightMode{
+    font-size: 60px;
+    color: rgb(122, 170, 233);
+}
+
